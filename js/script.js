@@ -1,9 +1,9 @@
-//function calculation(){
+function calculation(){
     let x = 10
     let y = 10
     let z = x + y
     let result = z
-   console.log(result);{
+   console.log(result);
     
 }
 calculation()
@@ -30,7 +30,7 @@ teams2.map((item)=>{
 // Array map
 
 // web speech syntisis api mdn
-let utterance = new SpeechSynthesisUtterance("Hello world!");
-speechSynthesis.speak(utterance);
+//let utterance = new SpeechSynthesisUtterance("Hello world!");
+//speechSynthesis.speak(utterance);
 // web speech syntisis api mdn
 
